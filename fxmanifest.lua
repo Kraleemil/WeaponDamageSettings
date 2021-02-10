@@ -6,6 +6,6 @@ description 'DRP Weapon Damage Reduction'
 version '1.0.0'
 
 client_scripts {
-    'config.lua'
+    'config.lua',
     'client/main.lua',
 }
